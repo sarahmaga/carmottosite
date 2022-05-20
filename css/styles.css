@@ -5701,7 +5701,7 @@ header.masthead {
     background-attachment: scroll;
     background-position: center center;
     background-size: cover;
-    max-height: 400px;
+    max-height: 350;
 
   }
 #removeContactUS{
@@ -11567,7 +11567,7 @@ header.masthead {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  background-size: cover;
+  background-size: 950px;
   height: 717px;
   transform: scale(0.85);
 }
